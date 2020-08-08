@@ -1,6 +1,6 @@
 import urllib.request
 import difflib
-
+# Sull1v4nX Ejemplo 1 .. 
 site= "https://www.sull1v4nx.site/"
 page2 = urllib.request.urlopen(site).read().decode()
 
